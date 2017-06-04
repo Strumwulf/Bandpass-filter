@@ -5,3 +5,7 @@ This program uses the butter filter from the scipy library to generate a bandpas
 lowcut = low end of filter
 
 highcut = high end of filter
+
+Based on the code at:  http://scipy-cookbook.readthedocs.io/items/ButterworthBandpass.html
+
+
